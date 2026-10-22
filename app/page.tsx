@@ -434,7 +434,7 @@ export default function Portfolio() {
               <Badge className="absolute top-4 left-4 z-10 bg-green-500 text-neutral-950">DONE</Badge>
               <Link href="/coming-soon">
                 <Image
-                  src="/images/apcia.jpg?height=600&width=1200"
+                  src="/images/apcia.jpg"
                   alt="APCIA E-Commerce"
                   width={1200}
                   height={600}
@@ -488,7 +488,7 @@ export default function Portfolio() {
                 <div className="relative">
                   <Badge className="absolute top-4 left-4 z-10 bg-green-500 text-neutral-950">DONE</Badge>
                   <Image
-                    src="/images/kapuntukan.png?height=300&width=600"
+                    src="/images/kapuntukan.png"
                     alt="Kapuntukan Resto Bar Reservation and Scheduling"
                     width={600}
                     height={300}
@@ -527,7 +527,7 @@ export default function Portfolio() {
                 <div className="relative">
                   <Badge className="absolute top-4 left-4 z-10 bg-green-500 text-neutral-950">DONE</Badge>
                   <Image
-                    src="/images/solana.png?height=300&width=600"
+                    src="/images/solana.png"
                     alt="Solana Staking DApp"
                     width={600}
                     height={300}
@@ -566,7 +566,7 @@ export default function Portfolio() {
                 <div className="relative">
                   <Badge className="absolute top-4 left-4 z-10 bg-orange-500 text-neutral-950">IN PROGRESS</Badge>
                   <Image
-                    src="/images/mindleap.png?height=300&width=600"
+                    src="/images/mindleap.png"
                     alt="MindLeap"
                     width={600}
                     height={300}
@@ -809,7 +809,7 @@ export default function Portfolio() {
               }`}
             >
               <Image
-                src="/images/profile1.jpg?height=400&width=400"
+                src="/images/profile1.jpg"
                 alt="Profile photo"
                 width={400}
                 height={400}
